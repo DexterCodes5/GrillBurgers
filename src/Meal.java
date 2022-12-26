@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-// Encapsulation, Composition, Inheritance, Polymorphism
+// Encapsulation, Composition, Inheritance
 public class Meal {
     private Burger burger;
     private Item drink;
